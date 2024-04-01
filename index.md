@@ -18,11 +18,11 @@
 
 
 ## 팀포트리스 첫 구상 feat.Figma
-\<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVrGnKXI2fd1GEfBjVr7mW1%2FFortress-Project%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DhmpdF8Mk16HDTHaJ-1" allowfullscreen></iframe>
+팀 페이지 확인
 
 
 ## 시연 영상
-\<a href='https://ifh.cc/v-nHM0sq' target='_blank'><video src='https://ifh.cc/v/nHM0sq.mp4' width="800" height="450" muted autoplay loop playsinline></a>
+팀 페이지 확인
 
 
 ## 설치 방법
