@@ -1,0 +1,36 @@
+# Welcome to "Team Fortress" Page!</h1>
+
+## 프로젝트 소개
+### 저의 "팀포트리스"는 예전에 큰 인기를 끌엇던 포트리스게임을 재현 및 재구성하여 포트리스의 부활을 목표로 합니다.
+
+
+## 팀 소개
+### 20171187 김민식 팀장
+- 역할: 게임파트
+### 20175162 박우진
+- 역할: 디자인, 로비, 뒤끝
+### 20213080 정윤민
+- 역할: 게임파트, 로비
+
+
+## 게임 기술 소개
+### 유니티, Photon, 뒤끝서버
+
+
+## 팀포트리스 첫 구상 feat.Figma
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVrGnKXI2fd1GEfBjVr7mW1%2FFortress-Project%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DhmpdF8Mk16HDTHaJ-1" allowfullscreen></iframe>
+
+
+## 시연 영상
+<a href='https://ifh.cc/v-nHM0sq' target='_blank'><video src='https://ifh.cc/v/nHM0sq.mp4' width="800" height="450" muted autoplay loop playsinline></a>
+
+
+## 설치 방법
+### 추후 설치파일 배포, 바로 실행 가능합니다.
+
+
+## 이후 추가할 내용
+1. 팀기능 추가
+2. 화살모드 추가
+3. UI및 게임성 개선
+4. 딥러닝 AI기능 구현
