@@ -23,6 +23,7 @@
 
 ## 시연 영상
 <a href='https://ifh.cc/v-nHM0sq' target='_blank'><video src='https://ifh.cc/v/nHM0sq.mp4' width="800" height="450" muted autoplay loop playsinline></a>
+[URL=https://ifh.cc/v-nHM0sq][VIDEO]https://ifh.cc/v/nHM0sq.mp4[/VIDEO][/URL]
 
 
 ## 설치 방법
